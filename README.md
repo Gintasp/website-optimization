@@ -1,7 +1,7 @@
 This repo contains completed Final Project of Udacity's course on Website Performance Optimization. This is my first try at optimizing a website for speed. Screenshots of Google Page Speed Insights and Chrome Developer Tools' Performance tests before and after the optimization are available in this repo under the names of "before-optimization.jpg" and "after-optimization.jpg". Sample website is available online at  https://gintasp.github.io/website-optimization/
 =================================================================
 
-Website Performance Stats:
+# Website Performance Stats:
 
 ***BEFORE:***
 Render Range 0-975ms,
@@ -11,7 +11,7 @@ Page Speed Insights 71(Mobile) & 29(Desktop).
 Render Range 0-586ms,
 Page Speed Insights 99(Mobile) & 97(Desktop).
 
-Steps I've taken:
+# Steps I've taken:
 1. Optimized Critical Rendering Path.
 2. Minified CSS files.
 3. Minified JS files and got rid of dead code.
@@ -20,7 +20,7 @@ Steps I've taken:
 6. Compressed images, converted larger ones to .webp format.
 7. Reduced the amount of white space in html files and deleted comments.
 
-Things I learned doing this project:
+# Things I learned doing this project:
 1. Gained significant amount of new skills using Chrome Developer Tools.
 2. Attained skills for website optimization.
 3. Learned about browsers and how they render pages.
