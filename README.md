@@ -1,4 +1,7 @@
-This repo contains completed Final Project of Udacity's course on Website Performance Optimization. This is my first try at optimizing a website for speed. Screenshots of Google Page Speed Insights and Chrome Developer Tools' Performance tests before and after the optimization are available in this repo under the names of "before-optimization.jpg" and "after-optimization.jpg". Sample website is available online at  https://gintasp.github.io/website-optimization/
+# About:
+
+This repo contains completed Final Project of Udacity's course on Website Performance Optimization. This is my first try at optimizing a website for speed. Screenshots of Google Page Speed Insights and Chrome Developer Tools' Performance tests before and after the optimization are available in this repo under the names of "before-optimization.jpg" and "after-optimization.jpg". Sample website is available online at [Github](https://gintasp.github.io/website-optimization/).
+
 =================================================================
 
 # Website Performance Stats:
